@@ -1,0 +1,32 @@
+commit dbd2ce1e2107d52e322f61d44290312d5705f09a
+Author: Dron-Adron <taurus-99@mail.ru>
+Date:   Tue Oct 3 16:38:51 2023 +0300
+
+    add f1.txt
+
+commit b37ef0143d04a90e012f8cdc32529c91bf2e900b
+Merge: bddf78d 75553fd
+Author: Dron-Adron <taurus-99@mail.ru>
+Date:   Tue Oct 3 15:38:17 2023 +0300
+
+    Merge remote-tracking branch 'origin/feature/variant_10_denis' into feature/variant_14_andrey
+
+commit bddf78dc8e3f90479c7a70c0af6d2a2c4d891dda
+Author: Dron-Adron <taurus-99@mail.ru>
+Date:   Mon Oct 2 23:21:10 2023 +0300
+
+    value change
+
+commit 75553fded2156fed10288601380d4bf9ba08d40e
+Author: Denis Ivanov <denis.ivnov@yandex.ru>
+Date:   Mon Oct 2 23:06:24 2023 +0300
+
+    change file
+
+commit b850b84c642985c36e030ec34db6e0a1c3547fd0
+Author: divanvoiska <133223811+divanvoiska@users.noreply.github.com>
+Date:   Tue Sep 26 21:20:26 2023 +0300
+
+    blabla
+    
+    add new file
